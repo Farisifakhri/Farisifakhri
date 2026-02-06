@@ -1,7 +1,7 @@
 # Hi there! I'm Fakhri Alfarisi 🏮
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=800&size=28&duration=3000&pause=1000&color=00B894&center=true&vCenter=true&width=600&lines=Informatics+Engineering+Student;Secretary+General+at+PRISMA+Al-Ma'mur;Licensed+C3+Futsal+Referee;Aviation+%26+Railway+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=800&size=28&duration=3000&pause=1000&color=00B894&center=true&vCenter=true&width=600&lines=Informatics+Engineering+Student;Secretary+General+at+PRISMA+Al-Ma'mur;Licensed+Level+2+Futsal+Referee;Aviation+%26+Railway+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
@@ -40,7 +40,7 @@ Sistem penilaian *real-time* berbasis web untuk event Pawai Obor Al-Ma'mur.
 #### ⚽ AI Futsal Referee Analysis
 Pengembangan alat analisis wasit futsal menggunakan **Python** dan **YOLOv8** untuk mendeteksi pergerakan wasit secara otomatis.
 
-#### 🚆 GAPEKA Train Simulation
+#### 🚆 [GAPEKA Train Simulation] (https://github.com/Farisifakhri/gapeka-simulator)
 Simulasi grafik perjalanan kereta api yang difokuskan pada peran **PPKA** (Pengatur Perjalanan Kereta Api).
 
 ---
