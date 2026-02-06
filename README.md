@@ -1,54 +1,66 @@
-# 🚀 Hi there, I'm Fakhri Alfarisi! 🏮
+# Hi there! I'm Fakhri Alfarisi 🏮
 
-Mahasiswa **Teknik Informatika** di UIN Syarif Hidayatullah Jakarta yang antusias dengan pengembangan perangkat lunak, integrasi database, dan teknologi AI. 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=800&size=28&duration=3000&pause=1000&color=00B894&center=true&vCenter=true&width=600&lines=Informatics+Engineering+Student;Secretary+General+at+PRISMA+Al-Ma'mur;Licensed+C3+Futsal+Referee;Aviation+%26+Railway+Enthusiast" alt="Typing SVG" />
+</div>
 
 ---
 
 ### 👨‍💻 About Me
-- 🎓 **Education**: Informatics Engineering Student at UIN Syarif Hidayatullah Jakarta (Class of 2023).
-- 🏛️ **Organization**: 
-  - **Secretary General** at PRISMA Al-Ma'mur (Bumi Asri Kutabumi).
-  - **Kestari Bureau (Website)** at LDK Syahid UIN Jakarta.
+- 🎓 **Education**: Informatics Engineering Student at **UIN Syarif Hidayatullah Jakarta** (Class of 2023).
+- 🏛️ **Leadership**: 
+  - **Secretary General** at PRISMA Al-Ma'mur, Tangerang.
+  - **Kestari Bureau** (Admin & Website) at LDK Syahid UIN Jakarta.
   - **Head of PKPI Department** at HIMTI UIN Jakarta.
-  - **Chairman** of FST Musala Community (Komus).
-- ⚽ **Certifications**: 
-  - Licensed **Level 2 Futsal Referee** (Askot Tangerang).
-  - Certified **Halal Product Process Companion** (PPH).
+  - **Chairman** of Musala Community (Komus) FST UIN Jakarta.
+- ⚽ **Professional**: Licensed **Level 2 Futsal Referee** (Askot Tangerang) & Certified **Halal Product Process Companion**.
 
 ---
 
-### 🛠️ Tech Stack & Skills
-- **Languages**: Python, JavaScript, HTML5, CSS3.
-- **Tools & Platforms**: Supabase, Vercel, Git/GitHub.
-- **Specialized**: YOLOv8 (Object Detection), Web Development.
+### 🛠️ Tech Stack
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3EC988?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</div>
 
 ---
 
 ### 📂 Featured Projects
-#### 1. [Pawai Obor Digital Scoring System](https://github.com/Farisifakhri/pawai-obor)
-Sistem penilaian *real-time* untuk acara Pawai Obor PRISMA Al-Ma'mur menggunakan **Supabase** dan **Vanilla JS**. Mendukung input kolektif dari 32 juri (8 juri per pos).
 
+#### 🏮 [Pawai Obor Digital Scoring](https://github.com/Farisifakhri/pawai-obor)
+Sistem penilaian *real-time* berbasis web untuk event Pawai Obor Al-Ma'mur.
+- **Logic**: Built with Vanilla JS & Supabase.
+- **Scale**: Handles 800 data points (25 groups × 4 posts × 8 judges).
+- **Algorithm**: $$\text{Final Score} = \sum_{i=1}^{4} \left( \frac{\sum_{j=1}^{8} \text{Score}_{i,j}}{8} \right)$$
 
----
+#### ⚽ AI Futsal Referee Analysis
+Pengembangan alat analisis wasit futsal menggunakan **Python** dan **YOLOv8** untuk mendeteksi pergerakan wasit secara otomatis.
 
-### 📊 Coding Stats
-![Fakhri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Farisifakhri&show_icons=true&theme=emerald)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Farisifakhri&layout=compact&theme=emerald)
-
----
-
-### ✈️ Personal Interests
-Selain koding, saya adalah seorang:
-- 🚆 **Transport Enthusiast**: Pecinta kereta api dan aviasi (bermimpi membangun maskapai sendiri!).
-- ⚽ **Futsal Addict**: Aktif sebagai pemain dan wasit futsal berlisensi.
-- 📖 **Reader**: Penggemar berat novel karya Tere Liye (Serial Bumi, Negeri Para Bedebah).
-- ⛩️ **Anime Lover**: Menonton lebih dari 90+ judul anime di tahun 2025.
+#### 🚆 GAPEKA Train Simulation
+Simulasi grafik perjalanan kereta api yang difokuskan pada peran **PPKA** (Pengatur Perjalanan Kereta Api).
 
 ---
 
-### 📫 Get in Touch
-- **Instagram**: [@farisi_fakhri26]
-- **LinkedIn**: [linkedin.com/in/fakhri-alfarisi]
-- **Email**: [mu.fakhrialfarisi@gmail.com]
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=emerald&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=emerald" alt="Top Languages" />
+</div>
 
-*"Berkomunikasi dengan lemah lembut adalah kunci keberhasilan tim."*
+---
+
+### ✈️ Interests & Dreams
+- ✈️ **Aviation**: Bermimpi membangun maskapai sendiri.
+- 🚆 **Railway Enthusiast**: Pecinta transportasi umum dan kereta api.
+- 📖 **Reader**: Penggemar berat novel karya **Tere Liye** (Negeri Para Bedebah & Pulang Series).
+- ⛩️ **Anime**: Menonton 90+ judul anime di tahun 2025.
+
+---
+
+<div align="center">
+  <p>Berkomunikasi dengan lemah lembut adalah kunci keberhasilan tim.</p>
+</div>
