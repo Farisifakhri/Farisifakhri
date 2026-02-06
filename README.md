@@ -12,7 +12,7 @@ Mahasiswa **Teknik Informatika** di UIN Syarif Hidayatullah Jakarta yang antusia
   - **Head of PKPI Department** at HIMTI UIN Jakarta.
   - **Chairman** of FST Musala Community (Komus).
 - ⚽ **Certifications**: 
-  - Licensed **C3 Futsal Referee** (Askot Tangerang).
+  - Licensed **Level 2 Futsal Referee** (Askot Tangerang).
   - Certified **Halal Product Process Companion** (PPH).
 
 ---
@@ -28,17 +28,12 @@ Mahasiswa **Teknik Informatika** di UIN Syarif Hidayatullah Jakarta yang antusia
 #### 1. [Pawai Obor Digital Scoring System](https://github.com/Farisifakhri/pawai-obor)
 Sistem penilaian *real-time* untuk acara Pawai Obor PRISMA Al-Ma'mur menggunakan **Supabase** dan **Vanilla JS**. Mendukung input kolektif dari 32 juri (8 juri per pos).
 
-#### 2. [AI Futsal Referee Analysis](https://github.com/username/futsal-ai)
-Proyek eksperimental menggunakan **Python** dan **YOLOv8** untuk menganalisis pergerakan wasit futsal dalam upaya meningkatkan akurasi pengambilan keputusan.
-
-#### 3. [GAPEKA Train Simulation](https://github.com/Farisifakhri/gapeka-sim)
-Simulasi grafik perjalanan kereta api yang fokus pada operasional PPKA (Pengatur Perjalanan Kereta Api).
 
 ---
 
 ### 📊 Coding Stats
-![Fakhri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=emerald)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=emerald)
+![Fakhri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Farisifakhri&show_icons=true&theme=emerald)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Farisifakhri&layout=compact&theme=emerald)
 
 ---
 
@@ -52,8 +47,8 @@ Selain koding, saya adalah seorang:
 ---
 
 ### 📫 Get in Touch
-- **Instagram**: [@fakhri_username]
+- **Instagram**: [@farisi_fakhri26]
 - **LinkedIn**: [linkedin.com/in/fakhri-alfarisi]
-- **Email**: [fakhri@almamur.com]
+- **Email**: [mu.fakhrialfarisi@gmail.com]
 
 *"Berkomunikasi dengan lemah lembut adalah kunci keberhasilan tim."*
