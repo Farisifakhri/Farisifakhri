@@ -31,7 +31,7 @@
 
 ### 📂 Featured Projects
 
-#### 🏮 [Pawai Obor Digital Scoring](https://github.com/Farisifakhri/pawai-obor)
+#### 🏮 [Pawai Obor Digital Scoring](https://github.com/Farisifakhri/pawai-obor-almakmur)
 Sistem penilaian *real-time* berbasis web untuk event Pawai Obor Al-Ma'mur.
 - **Logic**: Built with Vanilla JS & Supabase.
 - **Scale**: Handles 800 data points (25 groups × 4 posts × 8 judges).
