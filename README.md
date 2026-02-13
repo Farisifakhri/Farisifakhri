@@ -40,7 +40,7 @@ Sistem penilaian *real-time* berbasis web untuk event Pawai Obor Al-Ma'mur.
 #### ⚽ AI Futsal Referee Analysis
 Pengembangan alat analisis wasit futsal menggunakan **Python** dan **YOLOv8** untuk mendeteksi pergerakan wasit secara otomatis.
 
-#### 🚆 [GAPEKA Train Simulation] (https://github.com/Farisifakhri/gapeka-simulator)
+#### 🚆 [GAPEKA Train Simulation](https://github.com/Farisifakhri/Gapeka-Master-2025)
 Simulasi grafik perjalanan kereta api yang difokuskan pada peran **PPKA** (Pengatur Perjalanan Kereta Api).
 
 ---
