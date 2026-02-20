@@ -8,9 +8,11 @@
 
 ### 👨‍💻 About Me
 - 🎓 **Education**: Informatics Engineering Student at **UIN Syarif Hidayatullah Jakarta** (Class of 2023).
-- 🏛️ **Leadership**: 
+- 🏛️ **Leadership & Web Development**: 
   - **Secretary General** at PRISMA Al-Ma'mur, Tangerang.
-  - **Kestari Bureau** (Admin & Website) at LDK Syahid UIN Jakarta.
+  - **Kestari Bureau** (Admin & Website) at **LDK Syahid UIN Jakarta**.
+    - 🌐 *Web Development Assistant* for [ldksyah.id](https://ldksyah.id).
+  - **Web Developer** for **LDKS FST UIN Jakarta**.
   - **Head of PKPI Department** at HIMTI UIN Jakarta.
   - **Chairman** of Musala Community (Komus) FST UIN Jakarta.
 - ⚽ **Professional**: Licensed **Level 2 Futsal Referee** (Askot Tangerang) & Certified **Halal Product Process Companion**.
@@ -34,8 +36,15 @@
 #### 🏮 [Pawai Obor Digital Scoring](https://github.com/Farisifakhri/pawai-obor-almakmur)
 Sistem penilaian *real-time* berbasis web untuk event Pawai Obor Al-Ma'mur.
 - **Logic**: Built with Vanilla JS & Supabase.
-- **Scale**: Handles 800 data points (25 groups × 4 posts × 8 judges).
-- **Algorithm**: $$\text{Final Score} = \sum_{i=1}^{4} \left( \frac{\sum_{j=1}^{8} \text{Score}_{i,j}}{8} \right)$$
+- **Scale**: Handles **600 data points** (25 groups × 4 posts × **6 judges**).
+- **Algorithm**: 
+$$\text{Final Score} = \sum_{i=1}^{4} \left( \frac{\sum_{j=1}^{6} \text{Score}_{i,j}}{6} \right)$$
+
+#### 🤖 [Bot Telegram Ma'had](https://github.com/FarisFakhri1/bot-telegram-mahad.git)
+Bot asisten untuk santri Ma'had Syekh Nawawi yang mengelola jadwal dan informasi harian.
+- **Language**: **Python 3.x**.
+- **Library**: `python-telegram-bot` / `telebot`.
+- **Features**: Otomasi jadwal kegiatan harian/mingguan dan sistem notifikasi penting.
 
 #### ⚽ AI Futsal Referee Analysis
 Pengembangan alat analisis wasit futsal menggunakan **Python** dan **YOLOv8** untuk mendeteksi pergerakan wasit secara otomatis.
@@ -47,8 +56,8 @@ Simulasi grafik perjalanan kereta api yang difokuskan pada peran **PPKA** (Penga
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=emerald&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=emerald" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FarisFakhri1&show_icons=true&theme=emerald&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarisFakhri1&layout=compact&theme=emerald" alt="Top Languages" />
 </div>
 
 ---
@@ -56,7 +65,7 @@ Simulasi grafik perjalanan kereta api yang difokuskan pada peran **PPKA** (Penga
 ### ✈️ Interests & Dreams
 - ✈️ **Aviation**: Bermimpi membangun maskapai sendiri.
 - 🚆 **Railway Enthusiast**: Pecinta transportasi umum dan kereta api.
-- 📖 **Reader**: Penggemar berat novel karya **Tere Liye** (Negeri Para Bedebah & Pulang Series).
+- 📖 **Reader**: Penggemar berat novel dan sejarah dunia khusus nya sejarah islam.
 - ⛩️ **Anime**: Menonton 90+ judul anime di tahun 2025.
 
 ---
