@@ -35,10 +35,7 @@
 
 ### 📂 Featured Projects
 
-#### 💥 [Finger Explosion: AI Gesture Game](https://github.com/FarisFakhri1/finger-explosion)
-Game interaktif berbasis AI yang mengubah jari menjadi senjata menggunakan hand-tracking.
-- **Tech**: **MediaPipe Hands**, **jQuery**, **HTML5 Canvas**.
-- **Feature**: Real-time dual player tracking, neon UI, dan sistem skor dinamis.
+
 
 #### 🏮 [Pawai Obor Digital Scoring](https://github.com/Farisifakhri/pawai-obor-almakmur)
 Sistem penilaian *real-time* berbasis web untuk event Pawai Obor Al-Ma'mur.
