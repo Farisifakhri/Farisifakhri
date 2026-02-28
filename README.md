@@ -57,9 +57,6 @@ Bot asisten santri Ma'had Syekh Nawawi untuk informasi jadwal dan notifikasi.
 #### ⚽ AI Futsal Referee Analysis
 Alat analisis pergerakan wasit futsal menggunakan **Python** dan **YOLOv8**.
 
-#### 🚆 [GAPEKA Train Simulation](https://github.com/Farisifakhri/Gapeka-Master-2025)
-Simulasi grafik perjalanan kereta api untuk edukasi peran PPKA.
-
 ---
 
 ### 📊 GitHub Stats
