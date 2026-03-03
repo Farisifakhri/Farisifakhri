@@ -1,7 +1,7 @@
 # Hi there! I'm Fakhri Alfarisi 🏮
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=800&size=28&duration=3000&pause=1000&color=00B894&center=true&vCenter=true&width=600&lines=Informatics+Engineering+Student;Secretary+General+at+PRISMA+Al-Ma'mur;Licensed+Level+2+Futsal+Referee;Aviation+%26+Railway+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=800&size=28&duration=3000&pause=1000&color=00B894&center=true&vCenter=true&width=600&lines=Informatics+Engineering+Student;Secretary+General+at+PRISMA+Al-Ma'mur;Licensed+Level+2+Futsal+Referee+(Prov.+Banten);Aviation+%26+Railway+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
@@ -9,13 +9,15 @@
 ### 👨‍💻 About Me
 - 🎓 **Education**: Informatics Engineering Student at **UIN Syarif Hidayatullah Jakarta** (Class of 2023).
 - 🏛️ **Leadership & Web Development**: 
-  - **Secretary General** at PRISMA Al-Ma'mur, Tangerang.
-  - **Kestari Bureau** (Admin & Website) at **LDK Syahid UIN Jakarta**.
-    - 🌐 *Web Development Assistant* for [ldksyah.id](https://ldksyah.id) (Laravel Framework, Blade.php, JSON, .env).
-  - **Web Developer** for **LDKS FST UIN Jakarta**.
+  - **Secretary General** at PRISMA Al-Ma'mur, Tangerang — Architecting the **Al-Ma'mur Super App**.
+  - **Kestari Bureau** (Administration & Website) at **LDK Syahid UIN Jakarta** (University Level).
+    - 🌐 *Web Development Assistant* for [ldksyah.id](https://ldksyah.id) (Laravel, Blade, JSON, .env).
   - **Head of PKPI Department** at HIMTI UIN Jakarta.
   - **Chairman** of Musala Community (Komus) FST UIN Jakarta.
-- ⚽ **Professional**: Licensed **Level 2 Futsal Referee** (Askot Tangerang) & Certified **Halal Product Process Companion**.
+- ⚽ **Professional**: 
+  - 🏁 **Licensed Level 2 Futsal Referee** (Provinsi Banten / AFC Level 2).
+  - 📜 **Certified Halal Product Process Companion** (Istiqlal Halal Center).
+  - 💼 **Administrative Assistant** at Aila Raeez Utama (SISKOPATUH Data Management).
 
 ---
 
@@ -27,7 +29,6 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3EC988?style=for-the-badge&logo=supabase&logoColor=white" />
 </div>
 
@@ -35,27 +36,21 @@
 
 ### 📂 Featured Projects
 
+#### 🕋 [Al-Ma'mur Super App](https://github.com/Farisifakhri/al-mamur-superapp)
+Integrated ecosystem for PRISMA & Masjid Al-Ma'mur.
+- **Modules**: Digital Scoring, Mentoring Game, & Digital Mutaba'ah (Ibadah Tracker).
+- **Logic**: Role-Based Access Control (RBAC) with Supabase & Vanilla JS.
+- **Scoring Algorithm**: 
+$$\text{Final Score} = \sum_{pos=1}^{4} \left( \frac{\sum_{judge=1}^{6} \text{Score}_{pos,judge}}{6} \right)$$
+*(Handles 600+ data points for 25 groups)*.
 
+#### 🚆 [Tangerang Line Train Dispatcher Simulation](https://github.com/FarisFakhri1/tangerang-line-sim)
+A personal project simulating train dispatching logic for the Tangerang Line.
+- **Focus**: Signal systems and scheduling logic.
 
-#### 🏮 [Pawai Obor Digital Scoring](https://github.com/Farisifakhri/pawai-obor-almakmur)
-Sistem penilaian *real-time* berbasis web untuk event Pawai Obor Al-Ma'mur.
-- **Logic**: Built with Vanilla JS & Supabase.
-- **Scale**: Handles **600 data points** (25 groups × 4 posts × **6 judges**).
-- **Algorithm**: 
-$$\text{Final Score} = \sum_{i=1}^{4} \left( \frac{\sum_{j=1}^{6} \text{Score}_{i,j}}{6} \right)$$
-
-#### 📚 [Proyek Perpustakaan Digital - SLiMS](https://github.com/FarisFakhri1/projek-perpustakaan-slims)
-Sistem manajemen perpustakaan untuk FST UIN Jakarta berbasis SLiMS 9 Bulian.
-- **License**: **GNU Licensed**.
-- **Tech Stack**: **PHP**, **MySQL**, **HTML5**, **CSS3**, Apache Web Server.
-
-#### 🤖 [Bot Telegram Ma'had](https://github.com/FarisFakhri1/bot-telegram-mahad.git)
-Bot asisten santri Ma'had Syekh Nawawi untuk informasi jadwal dan notifikasi.
-- **Language**: **Python 3.x**.
-- **Library**: `python-telegram-bot` / `telebot`.
-
-#### ⚽ AI Futsal Referee Analysis
-Alat analisis pergerakan wasit futsal menggunakan **Python** dan **YOLOv8**.
+#### ⚽ [AI Futsal Referee Analysis](https://github.com/FarisFakhri1/futsal-ai)
+Using **Python** and **YOLOv8** to analyze referee positioning and signals.
+- **Features**: Database of official referee hand signals.
 
 ---
 
@@ -68,13 +63,13 @@ Alat analisis pergerakan wasit futsal menggunakan **Python** dan **YOLOv8**.
 ---
 
 ### ✈️ Interests & Dreams
-- ✈️ **Aviation**: Bermimpi membangun maskapai sendiri.
-- 🚆 **Railway Enthusiast**: Pecinta transportasi umum dan kereta api.
-- 📖 **Reader**: Penggemar berat novel karya **Tere Liye** (*Negeri Para Bedebah* & *Pulang* Series).
-- ⛩️ **Anime**: Menonton 90+ judul anime di tahun 2025.
+- ✈️ **Aviation**: Dreaming of building my own airline.
+- 🚆 **Railway**: Public transport enthusiast, especially Indonesian commuter lines.
+- 📖 **Reader**: Devotee of **Tere Liye** novels (*Negeri Para Bedebah* & *Pulang* Series).
+- ⛩️ **Anime**: Watched 90+ titles in 2025 (MAL: *Risifarsensei*).
 
 ---
 
 <div align="center">
-  <p>Berkomunikasi dengan lemah lembut adalah kunci keberhasilan tim.</p>
+  <p><i>Berkomunikasi dengan lemah lembut adalah kunci keberhasilan tim.</i> [cite: 2025-06-18]</p>
 </div>
