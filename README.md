@@ -48,9 +48,6 @@ Integrated ecosystem for PRISMA & Masjid Al-Ma'mur.
 Automated futsal match analysis using **Python**, **YOLOv8**, and **OpenCV**.
 - **Focus**: Tracking players, detecting the ball in fast-paced scenarios, and analyzing referee positioning.
 
-#### 🚆 [Tangerang Line Train Dispatcher Simulation](https://github.com/Farisifakhri/tangerang-line-sim)
-A personal project simulating train dispatching logic (PPKA) for the Tangerang Line.
-- **Focus**: Signal systems, operational UI, and scheduling logic.
 
 ---
 
