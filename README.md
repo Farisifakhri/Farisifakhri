@@ -1,79 +1,67 @@
-# Hi there! I'm Fakhri Alfarisi 🏮
+# 🏮 Hi there! I'm Muhammad Fakhri Alfarisi
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=800&size=28&duration=3000&pause=1000&color=00B894&center=true&vCenter=true&width=600&lines=Informatics+Engineering+Student;Secretary+General+at+PRISMA+Al-Ma'mur;Licensed+Level+2+Futsal+Referee;Aviation+%26+Railway+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=800&size=28&duration=3000&pause=1000&color=00B894&center=true&vCenter=true&width=600&lines=Computer+Vision+Developer;Licensed+Level+2+Futsal+Referee;Secretary+General+at+PRISMA+Al-Ma'mur;Aviation+%26+Railway+Enthusiast" alt="Typing SVG" />
 </div>
 
-<br>
-
-### 👨‍💻 About Me
-
-- 🎓 **Education**: Informatics Engineering Student at **UIN Syarif Hidayatullah Jakarta** (Class of 2023).
-- ⚽ **Professional Sports**: **Licensed Level 2 Futsal Referee** (Provinsi Banten / AFC Level 2).
-- 💼 **Professional Work**: **Administrative Assistant** at Aila Raeez Utama (SISKOPATUH Data Management) & **Certified Halal Product Process Companion** (Istiqlal Halal Center).
-- 🏛️ **Leadership & Web Development**: 
-  - **Secretary General** at PRISMA Al-Ma'mur, Tangerang — Architecting the **Al-Ma'mur Super App**.
-  - **Chairman** of Musala Community (Komus) FST UIN Jakarta.
-  - **Head of PKPI Department** at HIMTI UIN Jakarta.
-  - **Kestari Bureau** (Administration & Website) at **LDK Syahid UIN Jakarta** — *Web Development Assistant* for [ldksyah.id](https://ldksyah.id).
+### 👨‍💻 Engineering for Fair Play
+I am an **Informatics Engineering** student at **UIN Syarif Hidayatullah Jakarta** (Class of 2023). My work sits at the intersection of **Artificial Intelligence** and **Sports Officiating**. As a **Licensed Level 2 Futsal Referee**, I develop AI-driven solutions to enhance match analysis and administrative efficiency in community organizations.
 
 ---
 
-### 🛠️ Tech Stack
+### 🏛️ Professional Roles & Leadership
+- ⚽ **Licensed Level 2 Futsal Referee**: Active official for **Asprov Banten** & AFC Level 2 standard.
+- 🏢 **Secretary General**: Leading digital transformation at **PRISMA Al-Ma'mur**.
+- 👨‍💼 **Administrative Assistant**: Managing travel & SISKOPATUH data at **Aila Raeez Utama**.
+- 🕋 **Halal Companion**: Certified **Halal Product Process Companion** (Istiqlal Halal Center).
+- 🎓 **Organization**: Head of **PKPI Department** at **HIMTI UIN Jakarta**.
 
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3EC988?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-</div>
+---
+
+### 🛠️ Specialized Tech Stack
+
+| Domain | Tools & Technologies |
+| :--- | :--- |
+| **AI & Vision** | **Python**, **YOLOv8**, **OpenCV** (Focus: Player & Signal Detection) |
+| **Web Development** | **Laravel**, **Node.js**, **Supabase**, Vanilla JavaScript |
+| **Administration** | Google Workspace, Database Management, Technical Documentation |
 
 ---
 
 ### 📂 Featured Projects
 
+#### ⚽ [Futsal Video Analysis (AI)](https://github.com/Farisifakhri/futsal-cv)
+Developing an automated system using **YOLOv8** to analyze futsal matches.
+- **Core Function**: Detecting player movements and referee signals in real-time.
+- **Purpose**: Supporting referee positioning analysis and match reporting accuracy.
+
 #### 🕋 [Al-Ma'mur Super App](https://github.com/Farisifakhri/al-mamur-superapp)
-Integrated ecosystem for PRISMA & Masjid Al-Ma'mur.
-- **Modules**: Digital Scoring, Mentoring Game, & Digital Mutaba'ah (Ibadah Tracker).
-- **Logic**: Role-Based Access Control (RBAC) with Supabase & Vanilla JS.
-- **Scoring Algorithm**: 
-  $$\text{Final Score} = \sum_{pos=1}^{4} \left( \frac{\sum_{judge=1}^{6} \text{Score}_{pos,judge}}{6} \right)$$
-  *(Handles 600+ data points for 25 groups)*.
+A full-stack ecosystem for community management and mosque engagement.
+- **Logic**: Implemented **Role-Based Access Control (RBAC)** and complex scoring algorithms.
+- **Impact**: Streamlining data for 600+ points across multiple organizational units.
 
-#### ⚽ [Futsal Video Analysis (Computer Vision)](https://github.com/Farisifakhri/futsal-cv)
-Automated futsal match analysis using **Python**, **YOLOv8**, and **OpenCV**.
-- **Focus**: Tracking players, detecting the ball in fast-paced scenarios, and analyzing referee positioning.
-
+#### ⏱️ [Timekeeper Futsal PRO](https://github.com/Farisifakhri/futsal-timekeeper)
+A high-visibility digital scoreboard tailored for **Asprov Banten** officiating standards.
 
 ---
 
-### 📊 GitHub Stats
-
+### 📊 GitHub Activity
 <div align="center">
-  <a href="https://github.com/Farisifakhri">
-    <img src="https://github-readme-stats.vercel.app/api?username=Farisifakhri&show_icons=true&theme=emerald&count_private=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Farisifakhri">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farisifakhri&layout=compact&theme=emerald" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Farisifakhri&show_icons=true&theme=emerald&count_private=true" />
 </div>
 
 ---
 
 ### ✈️ Interests & Hobbies
-
-- ✈️ **Aviation**: Dreaming of building my own airline one day! Often found simulating operations in *Airlines Manager* and *World of Airports*.
-- 🚆 **Railway**: Public transport enthusiast, especially Indonesian commuter lines.
-- ⚽ **Football & Futsal**: Passionate referee on the court, Galatasaray fan off the court.
-- 📖 **Reader**: Devotee of **Tere Liye** novels (*Negeri Para Bedebah* & *Pulang* Series).
-- ⛩️ **Anime**: Watched 90+ titles (MAL: *Risifarsensei*).
+- ✈️ **Aviation**: Designing virtual airlines in *Airlines Manager* & *World of Airports*.
+- 🚆 **Railway**: Public transport enthusiast, specifically the **Tangerang & Rangkasbitung Lines**.
+- 📖 **Reader**: Devoted reader of **Tere Liye's** action-drama series.
+- ⛩️ **Anime**: Anime lover with 90+ titles watched (*Top: Frieren*).
 
 ---
 
 <div align="center">
   <p><i>"Berkomunikasi dengan lemah lembut adalah kunci keberhasilan tim."</i></p>
+  <a href="https://linkedin.com/in/muhammadfakhri"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:fakhri.alfarisi23@mhs.uinjkt.ac.id"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
