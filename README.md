@@ -5,40 +5,34 @@
 </div>
 
 ### 👨‍💻 Engineering for Fair Play
-I am an **Informatics Engineering** student at **UIN Syarif Hidayatullah Jakarta** (Class of 2023). My work sits at the intersection of **Artificial Intelligence** and **Sports Officiating**. As a **Licensed Level 2 Futsal Referee**, I develop AI-driven solutions to enhance match analysis and administrative efficiency in community organizations.
+I am an **Informatics Engineering** student at **UIN Syarif Hidayatullah Jakarta** (Class of 2023). My work sits at the intersection of **Artificial Intelligence** and **Sports Officiating**. As a **Licensed Level 2 Futsal Referee**, I develop AI-driven solutions to enhance match analysis and administrative efficiency.
 
 ---
 
-### 🏛️ Professional Roles & Leadership
-- ⚽ **Licensed Level 2 Futsal Referee**: Active official for **Asprov Banten** & AFC Level 2 standard.
-- 🏢 **Secretary General**: Leading digital transformation at **PRISMA Al-Ma'mur**.
-- 👨‍💼 **Administrative Assistant**: Managing travel & SISKOPATUH data at **Aila Raeez Utama**.
-- 🕋 **Halal Companion**: Certified **Halal Product Process Companion** (Istiqlal Halal Center).
-- 🎓 **Organization**: Head of **PKPI Department** at **HIMTI UIN Jakarta**.
+### 🛠️ Tech Stack & Tools
 
----
+#### 🤖 AI & Computer Vision
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 
-### 🛠️ Specialized Tech Stack
+#### 🌐 Web Development
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Supabase-3EC988?style=for-the-badge&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
-| Domain | Tools & Technologies |
-| :--- | :--- |
-| **AI & Vision** | **Python**, **YOLOv8**, **OpenCV** (Focus: Player & Signal Detection) |
-| **Web Development** | **Laravel**, **Node.js**, **Supabase**, Vanilla JavaScript |
-| **Administration** | Google Workspace, Database Management, Technical Documentation |
+#### ⚙️ Others
+<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 
 ---
 
 ### 📂 Featured Projects
 
 #### ⚽ [Futsal Video Analysis (AI)](https://github.com/Farisifakhri/futsal-cv)
-Developing an automated system using **YOLOv8** to analyze futsal matches.
-- **Core Function**: Detecting player movements and referee signals in real-time.
-- **Purpose**: Supporting referee positioning analysis and match reporting accuracy.
+Automated system using **YOLOv8** to analyze futsal matches.
+- **Features**: Detecting player movements and referee signals in real-time.
+- **Vision**: Empowering referees with AI-assisted positioning analysis.
 
 #### 🕋 [Al-Ma'mur Super App](https://github.com/Farisifakhri/al-mamur-superapp)
 A full-stack ecosystem for community management and mosque engagement.
-- **Logic**: Implemented **Role-Based Access Control (RBAC)** and complex scoring algorithms.
-- **Impact**: Streamlining data for 600+ points across multiple organizational units.
+- **Stack**: Laravel + Supabase + RBAC Logic.
+- **Impact**: Streamlining data for 600+ points across PRISMA Al-Ma'mur.
 
 #### ⏱️ [Timekeeper Futsal PRO](https://github.com/Farisifakhri/futsal-timekeeper)
 A high-visibility digital scoreboard tailored for **Asprov Banten** officiating standards.
@@ -53,8 +47,8 @@ A high-visibility digital scoreboard tailored for **Asprov Banten** officiating 
 ---
 
 ### ✈️ Interests & Hobbies
-- ✈️ **Aviation**: Designing virtual airlines in *Airlines Manager* & *World of Airports*.
-- 🚆 **Railway**: Public transport enthusiast, specifically the **Tangerang & Rangkasbitung Lines**.
+- ✈️ **Aviation**: Future airline founder. Enthusiast of *Airlines Manager* & *World of Airports*.
+- 🚆 **Railway**: Public transport lover, specifically the **Tangerang & Rangkasbitung Lines**.
 - 📖 **Reader**: Devoted reader of **Tere Liye's** action-drama series.
 - ⛩️ **Anime**: Anime lover with 90+ titles watched (*Top: Frieren*).
 
