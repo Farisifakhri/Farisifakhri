@@ -1,11 +1,20 @@
 # 🏮 Hi there! I'm Muhammad Fakhri Alfarisi
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=800&size=28&duration=3000&pause=1000&color=00B894&center=true&vCenter=true&width=600&lines=Computer+Vision+Developer;Licensed+Level+2+Futsal+Referee;Secretary+General+at+PRISMA+Al-Ma'mur;Aviation+%26+Railway+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=800&size=28&duration=3000&pause=1000&color=00B894&center=true&vCenter=true&width=600&lines=Computer+Vision+Developer;Full-stack+Web+Assistant;Licensed+Level+2+Futsal+Referee;Secretary+General+at+PRISMA+Al-Ma'mur" alt="Typing SVG" />
 </div>
 
-### 👨‍💻 Engineering for Fair Play
-I am an **Informatics Engineering** student at **UIN Syarif Hidayatullah Jakarta** (Class of 2023). My work sits at the intersection of **Artificial Intelligence** and **Sports Officiating**. As a **Licensed Level 2 Futsal Referee**, I develop AI-driven solutions to enhance match analysis and administrative efficiency.
+### 👨‍💻 Engineering for Social & Sports Impact
+I am an **Informatics Engineering** student at **UIN Syarif Hidayatullah Jakarta** (Class of 2023). My work focuses on bridging **Artificial Intelligence**, **Web Development**, and **Organizational Systems**. Whether I'm officiating a futsal match or architecting community apps, I strive for technical precision and "lemah lembut" communication.
+
+---
+
+### 🏛️ Professional Roles & Leadership
+- 🌐 **Web Development Assistant** @ [ldksyah.id](https://ldksyah.id): Managing administration and digital infrastructure for **LDK Syahid UIN Jakarta**.
+- ⚽ **Licensed Level 2 Futsal Referee**: Professional official for **Asprov Banten** (AFC Level 2 Standard).
+- 🏢 **Secretary General**: Architecting the **Al-Ma'mur Super App** ecosystem at **PRISMA Al-Ma'mur**.
+- 👨‍💼 **Administrative Assistant**: Managing travel and SISKOPATUH data at **Aila Raeez Utama**.
+- 🕋 **Halal Companion**: Certified **Halal Product Process Companion** (Istiqlal Halal Center).
 
 ---
 
@@ -17,25 +26,27 @@ I am an **Informatics Engineering** student at **UIN Syarif Hidayatullah Jakarta
 #### 🌐 Web Development
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Supabase-3EC988?style=for-the-badge&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
-#### ⚙️ Others
-<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+#### ⚙️ Deployment & Environment
+<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 
 ---
 
-### 📂 Featured Projects
+### 📂 Featured Projects in Development
 
-#### ⚽ [Futsal Video Analysis (AI)](https://github.com/Farisifakhri/futsal-cv)
-Automated system using **YOLOv8** to analyze futsal matches.
-- **Features**: Detecting player movements and referee signals in real-time.
-- **Vision**: Empowering referees with AI-assisted positioning analysis.
+#### ⚽ [Futsal Video Analysis (AI Project)](https://github.com/Farisifakhri/futsal-cv)
+Research project using **YOLOv8** to analyze futsal matches.
+- **Focus**: Detecting player movements and referee signals to assist in match evaluation.
+
+#### 🕌 [LDK Syahid Web Infrastructure](https://ldksyah.id)
+Active maintenance and feature development for the **LDK Syahid** organizational portal.
+- **Impact**: Digitalizing administrative workflows and student services for UIN Jakarta students.
 
 #### 🕋 [Al-Ma'mur Super App](https://github.com/Farisifakhri/al-mamur-superapp)
-A full-stack ecosystem for community management and mosque engagement.
-- **Stack**: Laravel + Supabase + RBAC Logic.
-- **Impact**: Streamlining data for 600+ points across PRISMA Al-Ma'mur.
+A complex full-stack ecosystem for community management.
+- **Logic**: Implemented **Role-Based Access Control (RBAC)** and custom scoring algorithms for mentoring games.
 
 #### ⏱️ [Timekeeper Futsal PRO](https://github.com/Farisifakhri/futsal-timekeeper)
-A high-visibility digital scoreboard tailored for **Asprov Banten** officiating standards.
+High-visibility digital scoreboard designed for professional match officiating standards.
 
 ---
 
@@ -46,10 +57,11 @@ A high-visibility digital scoreboard tailored for **Asprov Banten** officiating 
 
 ---
 
-### ✈️ Interests & Hobbies
-- ✈️ **Aviation**: Future airline founder. Enthusiast of *Airlines Manager* & *World of Airports*.
-- 🚆 **Railway**: Public transport lover, specifically the **Tangerang & Rangkasbitung Lines**.
-- 📖 **Reader**: Devoted reader of **Tere Liye's** action-drama series.
+### ✈️ Interests & Personal Life
+- ✈️ **Aviation**: Dreaming of founding a professional airline! Frequent *Airlines Manager* & *World of Airports* player.
+- 🚆 **Railway**: Public transport enthusiast, specifically the **Tangerang & Rangkasbitung Commuter Lines**.
+- ⚽ **Sports**: Dedicated **Galatasaray** fan and active futsal player (Anchor/Flank).
+- 📖 **Reader**: Devoted to **Tere Liye's** novels, especially the *Bandit-Bandit Berkelas* series.
 - ⛩️ **Anime**: Anime lover with 90+ titles watched (*Top: Frieren*).
 
 ---
