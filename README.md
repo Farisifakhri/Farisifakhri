@@ -92,7 +92,7 @@ Current interests include:
 ### 🗄️ Database & Infrastructure
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase,git,github,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase,git,github" />
 </p>
 
 ---
